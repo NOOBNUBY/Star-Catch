@@ -7,6 +7,15 @@
 * [Kommand](https://github.com/gooddltmdqls/kommand)
 * [Atem](https://github.com/NOOBNUBY/Atem)
 * [MC Server Luncher](https://github.com/monun/minecraft-server-launcher)
+* [FAWE World Edit](https://github.com/IntellectualSites/FastAsyncWorldEdit)
+
+# Command
+
+### please apply [FastAsyncWorldEdit](https://www.spigotmc.org/resources/fastasyncworldedit.13932/) plugin
+
+`/star` : basic command   
+`/star start` : start game   
+`/star save <name : str>` : save map location
 
 # Configuration
 
