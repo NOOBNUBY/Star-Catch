@@ -1,6 +1,6 @@
-# Kotlin Plugin Template
+# Star-Catch
 
-코틀린 PaperMC Plugin 템플릿입니다.
+코마님의 [별 잡아라](https://youtu.be/zCa1NfL-DII?si=t7Hvgcql-kegu1ZT) 플러그인 
 
 # Library
 

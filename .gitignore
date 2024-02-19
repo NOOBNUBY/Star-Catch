@@ -60,6 +60,7 @@ bin/
 /run/version_history.json
 /run/.console_history
 /run/whitelist.json
+/run/wepif.yml
 
 ### Mac OS ###
 .DS_Store

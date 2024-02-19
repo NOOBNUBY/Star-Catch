@@ -21,6 +21,9 @@ dependencies {
     implementation("xyz.icetang.lib:kommand-api:${property("kommand_version")}")
     implementation("com.github.noobnuby:atem:${property("atem_version")}")
     compileOnly("io.papermc.paper:paper-api:${property("paper_version")}-R0.1-SNAPSHOT")
+    implementation(platform("com.intellectualsites.bom:bom-newest:1.42")) // Ref: https://github.com/IntellectualSites/bom
+    compileOnly("com.fastasyncworldedit:FastAsyncWorldEdit-Core")
+    compileOnly("com.fastasyncworldedit:FastAsyncWorldEdit-Bukkit") { isTransitive = false }
 }
 
 java {
