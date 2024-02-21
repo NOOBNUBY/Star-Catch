@@ -16,7 +16,9 @@
 `/star` : basic command   
 `/star start` : start game   
 `/star save <name : str>` : save map location
-
+`/star save lobby` : save lobby location
+`/star setting map <mapName: map>` : setting map
+`/star remove <mapName: map>` : remove map
 # Configuration
 
 gradle.properties
