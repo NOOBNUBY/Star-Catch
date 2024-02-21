@@ -5,7 +5,6 @@
 # Library
 
 * [Kommand](https://github.com/gooddltmdqls/kommand)
-* [Atem](https://github.com/NOOBNUBY/Atem)
 * [MC Server Luncher](https://github.com/monun/minecraft-server-launcher)
 * [FAWE World Edit](https://github.com/IntellectualSites/FastAsyncWorldEdit)
 
